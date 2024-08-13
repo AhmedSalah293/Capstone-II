@@ -1,0 +1,32 @@
+#header {
+	background-image: url(./Assets/birmingham-museums-trust-wKlHsooRVbg-unsplash.jpg);
+	background-size: cover;
+	background-position: center;
+	background-repeat: no-repeat;
+	height: 80vh;
+}
+
+.container #texto {
+	font-size: 70px;
+	letter-spacing: 5px;
+	font-family: "Playfair Display", serif;
+	font-optical-sizing: auto;
+	font-weight: weight;
+	font-style: italic;
+}
+.container #textoe {
+	font-size: 70px;
+	letter-spacing: 5px;
+	font-family: "Anek Devanagari", sans-serif;
+	font-optical-sizing: auto;
+	font-weight: 200;
+	font-style: normal;
+	font-variation-settings: "wdth" 100.5;
+}
+#footer {
+	background-image: url(./Assets/birmingham-museums-trust-wKlHsooRVbg-unsplash.jpg);
+	background-size: cover;
+	background-position: center;
+	background-repeat: no-repeat;
+	height: 30vh;
+}
